@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrinathmishra&label=Profile%20views&color=0e75b6&style=flat" alt="shrinathmishra" /> </p>
 
-- 🌱 I’m currently learning **Data Science, DSA**
+- 🌱 I’m currently learning **Data Science, DSA**.
 
 - 👯 I’m looking to collaborate on **Data Science Projects**
 
