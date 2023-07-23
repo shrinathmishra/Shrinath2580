@@ -7,7 +7,7 @@
 </div>
 <div align="center"<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=pp+mori&weight=600&size=30&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=HELLO%2C+I+AM+SHRINATH;WELCOME+TO+MY+PROFILE" alt="Typing SVG" /></a></div>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> <br>
-<h3 align="center">A aspiring Data Scientist in making from India.</h3>
+<h3 align="center">An aspiring Data Scientist in making from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrinathmishra&label=Profile%20views&color=0e75b6&style=flat" alt="shrinathmishra" /> </p>
