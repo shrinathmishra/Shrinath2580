@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Data Science, DSA**.
 
-- 👯 I’m looking to collaborate on **Data Science Projects**
+- 👯 I’m looking to collaborate on **Data Science Projects**.
 
 - 📫 How to reach me **shrinath_mishra@outlook.com**
 
